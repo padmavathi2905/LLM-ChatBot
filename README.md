@@ -70,6 +70,10 @@ By combining **semantic search** with a **local Large Language Model (LLM)**, th
 
 ### Clone the Repository
 
+---
+
+```bash
+
 # ================================
 # RAG-Based LLM Chatbot Setup
 # ================================
@@ -117,5 +121,3 @@ docker run -d \
 
 # 13. Run the Streamlit application
 python -m streamlit run new.py
-
-
