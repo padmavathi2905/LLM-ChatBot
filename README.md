@@ -5,14 +5,14 @@ This application allows users to upload PDF documents, generate embeddings, and 
 
 <img width="1502" height="599" alt="Screenshot 2026-02-04 at 11 29 14 AM" src="https://github.com/user-attachments/assets/b94e639e-8773-4c89-a36c-60eeeecaab56" />
 
-<img width="1502" height="650" alt="Screenshot 2026-02-04 at 11 29 20 AM" src="https://github.com/user-attachments/assets/93c3145e-f062-422d-b618-25941bb5ac40" />
-
 ---
 
 ## 📌 Project Overview
 
 The **RAG-Based LLM Chatbot** is a **Streamlit-powered web application** that enables document-based question answering.  
 By combining **semantic search** with a **local Large Language Model (LLM)**, the chatbot provides accurate, context-aware answers grounded in uploaded documents.
+
+<img width="1502" height="650" alt="Screenshot 2026-02-04 at 11 29 20 AM" src="https://github.com/user-attachments/assets/93c3145e-f062-422d-b618-25941bb5ac40" />
 
 ---
 
