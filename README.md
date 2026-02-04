@@ -1,7 +1,7 @@
 # 🤖 RAG-Based LLM Chatbot
 
-A **Retrieval-Augmented Generation (RAG) based AI chatbot** built using a **fully open-source stack**.  
-This application allows users to upload PDF documents, generate embeddings, and interact with their documents through an intelligent chatbot — all running **locally** for privacy and control.
+A **Retrieval Augmented Generation  based AI chatbot** built using a **fully open source stack**.  
+This application allows users to upload PDF documents, generate embeddings, and interact with their documents through an intelligent chatbot all running **locally** for privacy and control.
 
 ---
 
@@ -68,11 +68,7 @@ By combining **semantic search** with a **local Large Language Model (LLM)**, th
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/padmavathi2905/LLM-Chatbot.git
-cd LLM-Chatbot
+### Clone the Repository
 
 # ================================
 # RAG-Based LLM Chatbot Setup
